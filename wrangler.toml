@@ -1,9 +1,0 @@
-#:schema node_modules/wrangler/config-schema.json
-name = "astro-cloudflare-pages"
-compatibility_date = "2024-05-02"
-pages_build_output_dir = "./dist"
-
-[[d1_databases]]
-binding = "DB"
-database_name = "astro-cloudflare-pages"
-database_id = "3e5f8399-ea8e-4f94-b62d-00f610f81e1a"
